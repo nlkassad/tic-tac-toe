@@ -256,8 +256,7 @@ webpackJsonp([0],[
 	'use strict';
 
 	var app = {
-	  //  host: "http://localhost:3000"
-	  host: "http://tic-tac-toe.wdibos.com/"
+	  host: "https://aqueous-atoll-85096.herokuapp.com/"
 	};
 
 	module.exports = app;
